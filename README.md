@@ -11,3 +11,7 @@ In this task, I worked on a control panel for the base of the robot. I did HTML,
 # Task3
 
 In this task, I added a chatbot to the control panel page by using IBM watson and adding it's script to the HTML file. 
+
+# Task4
+
+In this task, I worked in converting speech to text by using python and save the input voice as a text file and a mp3 file.
